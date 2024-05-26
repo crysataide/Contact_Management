@@ -6,9 +6,10 @@ class Headers:
     # Cabeçalho inicial
     def home(self):
         os.system("cls")
-        print("===========================\n")
-        print(" Gerenciamento de Contatos\n")
-        print("===========================\n")
+        print("=========================================================================\n")
+        print("                         Gerenciador de Contatos\n")
+        print("   Projeto no GitHub: https://github.com/crysataide/Contact_Management\n")
+        print("=========================================================================\n")
         
         print("1 - Criar contato")
         print("2 - Deletar contato")
